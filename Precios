@@ -1,0 +1,39 @@
+local Valores = {
+  --Maderas:
+  Oak = 150,
+  Mahogany = 175,
+  Elm = 200,
+  Ash = 200,
+  Cherry = 250,
+  Ironwood = 350,
+  Ebony = 1600,
+  Pine = 900,
+  Spruce = 1500,
+  ["Blood Oak"] = 1000,
+  Grimewood = 800,
+  Heartwood = 1000,
+  Pwnwood = 1400,
+
+  --Metales:
+  Iron = 200,
+  Coal = 350,
+  Copper = 150,
+  Silver = 500,
+  Gold = 1200,
+  Electrosteel = 12000,
+  Ice = 25000,
+  ["Cast Iron"] = 600,
+  Steel = 1000,
+  Sapphire = 7000,
+  Amethyst = 2000,
+  Emerald = 2000,
+  Ruby = 1000,
+  Onyx = 5000,
+  Salt = 200,
+  Saltpeter = 250,
+  --Otros:
+  Prems = 350,
+  Mold = 4000
+}
+
+return Valores
